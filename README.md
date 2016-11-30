@@ -2,7 +2,7 @@
 
 ## Legal Statement
 
-Copyright of this repo belongs to Silver and XDSEC.
+Copyright of this repo belongs to Silver.
 
 Unless otherwise stated, you are requested to follow GPLv3 to use code in this repo.
 
